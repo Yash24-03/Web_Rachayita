@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Web_Rachayita/static/css/main.f68e0a1b.css",
+    "main.js": "/Web_Rachayita/static/js/main.93583980.js",
+    "static/js/787.d3befce1.chunk.js": "/Web_Rachayita/static/js/787.d3befce1.chunk.js",
+    "index.html": "/Web_Rachayita/index.html",
+    "main.f68e0a1b.css.map": "/Web_Rachayita/static/css/main.f68e0a1b.css.map",
+    "main.93583980.js.map": "/Web_Rachayita/static/js/main.93583980.js.map",
+    "787.d3befce1.chunk.js.map": "/Web_Rachayita/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68e0a1b.css",
+    "static/js/main.93583980.js"
+  ]
+}
